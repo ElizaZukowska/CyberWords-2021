@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>JPWP_projekt_175469</name>
+    </assembly>
+    <members>
+        <member name="F:JPWP_projekt_175469.Form1.components">
+            <summary>
+            Wymagana zmienna projektanta.
+            </summary>
+        </member>
+        <member name="M:JPWP_projekt_175469.Form1.Dispose(System.Boolean)">
+            <summary>
+            Wyczyść wszystkie używane zasoby.
+            </summary>
+            <param name="disposing">prawda, jeżeli zarządzane zasoby powinny zostać zlikwidowane; Fałsz w przeciwnym wypadku.</param>
+        </member>
+        <member name="M:JPWP_projekt_175469.Form1.InitializeComponent">
+            <summary>
+            Metoda wymagana do obsługi projektanta — nie należy modyfikować
+            jej zawartości w edytorze kodu.
+            </summary>
+        </member>
+        <member name="F:JPWP_projekt_175469.Menu.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:JPWP_projekt_175469.Menu.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:JPWP_projekt_175469.Menu.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:JPWP_projekt_175469.Program.Main">
+            <summary>
+            Główny punkt wejścia dla aplikacji.
+            </summary>
+        </member>
+        <member name="T:JPWP_projekt_175469.Properties.Resources">
+            <summary>
+              Klasa zasobu wymagająca zdefiniowania typu do wyszukiwania zlokalizowanych ciągów itd.
+            </summary>
+        </member>
+        <member name="P:JPWP_projekt_175469.Properties.Resources.ResourceManager">
+            <summary>
+            Zwraca buforowane wystąpienie ResourceManager używane przez tę klasę.
+            </summary>
+        </member>
+        <member name="P:JPWP_projekt_175469.Properties.Resources.Culture">
+            <summary>
+              Przesłania właściwość CurrentUICulture bieżącego wątku dla wszystkich
+              przypadków przeszukiwania zasobów za pomocą tej klasy zasobów wymagającej zdefiniowania typu.
+            </summary>
+        </member>
+        <member name="P:JPWP_projekt_175469.Properties.Resources.crash">
+            <summary>
+              Wyszukuje zlokalizowany zasób typu System.IO.UnmanagedMemoryStream podobny do zasobu System.IO.MemoryStream.
+            </summary>
+        </member>
+        <member name="P:JPWP_projekt_175469.Properties.Resources.Doge_vipero_gities">
+            <summary>
+              Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:JPWP_projekt_175469.Properties.Resources.menuImage">
+            <summary>
+              Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:JPWP_projekt_175469.Properties.Resources.menuImage1">
+            <summary>
+              Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:JPWP_projekt_175469.Properties.Resources.Pickup_Coin2">
+            <summary>
+              Wyszukuje zlokalizowany zasób typu System.IO.UnmanagedMemoryStream podobny do zasobu System.IO.MemoryStream.
+            </summary>
+        </member>
+        <member name="P:JPWP_projekt_175469.Properties.Resources.pixil_frame_0">
+            <summary>
+              Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:JPWP_projekt_175469.Properties.Resources.te_szare_kamienei">
+            <summary>
+              Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:JPWP_projekt_175469.Properties.Resources.to_szare_to">
+            <summary>
+              Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:JPWP_projekt_175469.Properties.Resources.to_zolte_to">
+            <summary>
+              Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+            </summary>
+        </member>
+    </members>
+</doc>
